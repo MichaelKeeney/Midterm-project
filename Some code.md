@@ -23,8 +23,7 @@ def inputs():
 
 inputs()
 ```
-## ***BOOM*** 
-### There it is
+## ***BOOM*** There it is
 
 
 [Back to ReadMe](https://github.com/MichaelKeeney/Midterm-project)
