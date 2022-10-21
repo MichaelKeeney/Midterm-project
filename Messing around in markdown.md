@@ -9,4 +9,4 @@ Here is a link to one of my favorite webistes [Netflix](https://www.netflix.com/
 
 ### *Here is an italic heading*
 
-[Back to ReadMe](https://github.com/MichaelKeeney/Midterm-project/blob/main/README.md)
+[Back to README](https://github.com/MichaelKeeney/Midterm-project/blob/main/README.md)
