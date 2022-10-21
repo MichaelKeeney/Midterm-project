@@ -26,4 +26,4 @@ inputs()
 ## ***BOOM*** There it is
 
 
-[Back to ReadMe](https://github.com/MichaelKeeney/Midterm-project/blob/main/README.md)
+[Back to README](https://github.com/MichaelKeeney/Midterm-project/blob/main/README.md)
